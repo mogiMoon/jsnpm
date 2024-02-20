@@ -129,7 +129,7 @@ number = 0;
 while (number < 10) {
     number++;
 
-    if (number < 10) {
+    if (number === 5) {
         continue;
     }
 
