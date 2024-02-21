@@ -47,6 +47,6 @@ iveMembers = [
 
 console.log(iveMembers);
 
-// concat()
+// concat() 기존의 어레이가 변경되지않음 일회성
 console.log(iveMembers.concat('모기'));
-console.log(iveMembers);
+console.log(iveMembers); 
